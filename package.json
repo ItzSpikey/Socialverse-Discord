@@ -1,0 +1,19 @@
+{
+  "name": "socialverse_discordbot",
+  "version": "1.0.0",
+  "description": "officiële Socialverse Discord Bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon"
+  },
+  "keywords": [
+    "Discord",
+    "Socialverse"
+  ],
+  "author": "ItzSpikey",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^13.8.1"
+  }
+}
